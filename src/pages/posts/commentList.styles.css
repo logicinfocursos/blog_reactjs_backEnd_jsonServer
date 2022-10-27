@@ -1,0 +1,24 @@
+.comentContent{
+    display: flex;
+    flex-direction: row; 
+    padding: 20px; 
+      
+}
+
+.author{
+    color:red;
+    margin-left: 20px;
+}
+
+.commentIcon{
+    width: 70;
+    height: 70;
+}
+
+.message{
+    margin-left: 20px;  
+}
+
+.adm{
+    margin-left: 50px;
+}
